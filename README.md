@@ -3,8 +3,7 @@ In this video, I will show you how to convert all Excel formulas into values usi
 Use this code when you have a worksheet that contains a lot of formulas and you want to convert these formulas to values.
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/oHd3ZjaLrWA/0.jpg)](https://youtu.be/oHd3ZjaLrWA)
 
 
 ## About Me
